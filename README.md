@@ -1,0 +1,4 @@
+# sec-10K-document-efficiency-using-NLP
+A 10-K report is a comprehensive annual financial report that publicly traded companies are required to file with the Securities and Exchange Commission (SEC). The report provides detailed information about a company's financial performance, including its income, assets, liabilities, and other financial and operational information. The report is intended to give investors and analysts a comprehensive overview of a company's financial health and operations, and to provide them with the information they need to make informed investment decisions. The report is typically longer and more detailed than a company's annual report, and includes financial statements and other information such as management's discussion and analysis, risk factors, and financial statement footnotes.
+
+As a part of research project, I am tasked with extracting the $ numbers document as well as identify non-stock prices for the entire 10-K database of SEC.
